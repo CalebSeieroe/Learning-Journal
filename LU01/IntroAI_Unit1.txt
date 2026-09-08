@@ -1,0 +1,37 @@
+Intro to AI: Unit 1
+
+Aug 31
+Defining AI
+	NASA: There is no clear definition
+	A computer that mimics human knowledge
+	Machine learning
+		Video Games
+		Robots
+
+Shoe company, changes to be an AI company and massive spike.
+
+Sep 1
+Large Language Model explained briefly(YT video)
+
+	The user gives an input
+	The LLM assigns probability to a list of words and selects one of the words based on that probability
+	Size =  Training + weights/parameters(a knob, change the knob to change the ai)
+	At first, it puts out gibberish, but the more it trains, the more 'normal' it seems.
+
+No one actually knows why AI works(YT video)
+	AI (cultural definition): Cool robot that chit-chats with me
+	AI (technical definition):
+	LLM: next-word prediction model.
+		Some LLMs assign values to 
+	Emergent capabilities: new skills/traits emerge
+
+Terminology
+	https://www.telusdigital.com/insights/data-and-ai/article/50-beginner-ai-terms-you-should-know
+
+Sep 2
+Installed Docker; Oracle VM; Git, Node js, and already installed VS Code
+
+Sep 3
+Open Source AI
+You can download locally; it doesn't mean it's open source
+Induced demand; more access, more use. 

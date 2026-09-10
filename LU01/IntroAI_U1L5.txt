@@ -1,0 +1,38 @@
+Sep 8
+
+Prompt Engineering
+- Courses
+	AWS
+	Google
+
+"You're holding it wrong"
+- Prompt engineering is a powerful tool, but it shouldn't be an excuse for AI...
+
+The Prompt Framework (T-C-R-E-I)
+1 Task
+	- Persona: Who is the AI? (e.g., Marketer, Teacher)
+	- Format:
+2 Context
+	- 
+3 Reference
+	- Provides additional data, examples, or specific ideas to guide the AI.
+	- Attached is documentation about the coding framework we are using
+	- Here..
+4 Evaluate
+	- Review
+5 Iterate
+
+Always be Iterating
+. If results are lacking, try these steps
+- Mark up your prompt into T-C-R
+	- T: make a schedule for the team (Output: CV...
+
+Refinement Strategies
+- Try different phrasing
+	- 
+- Introduce Constraints
+
+
+Sep 9
+
+-

@@ -8,7 +8,7 @@ Defining AI
 		Video Games
 		Robots
 
-Shoe company, changes to be an AI company and massive spike.
+Shoe company, changes to be an AI company, and massive spike.
 
 Sep 1
 Large Language Model explained briefly(YT video)
@@ -33,5 +33,8 @@ Installed Docker; Oracle VM; Git, Node js, and already installed VS Code
 
 Sep 3
 Open Source AI
-You can download locally; it doesn't mean it's open source
+You can download it locally; it doesn't mean it's open source
 Induced demand; more access, more use. 
+
+Gave an AI a political test
+

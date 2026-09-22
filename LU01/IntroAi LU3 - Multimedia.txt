@@ -1,0 +1,29 @@
+Intro Ai LU3 - Multimedia
+Caleb Seieroe
+-------------------
+Multimedia - audio; video; images; games; mostly anything but text.
+Text-to-speech (TTS) - converting written text into neutral-sounding speech
+Voice cloning - replicating a specific voice from audio samples.
+Text-to-Video - generating video content from a text description
+Image-to-Video - Animating static images into video sequences.
+----
+Prompt engineering for better results
+
+Audio generation:
+
+- Specify emotion and tone: "excited," "calm," "professional"
+- Include pacing instructions: "speak slowly," "emphasize the word 'innovative'"
+- Consider audience: "child-friendly voice" or "authoritative narrator"
+
+Video Generation:
+
+- Use cinematic terms: "close-up," "wide shot." "tracking shot"
+- Specify lighting: "golden hour," "soft lighting," "dramatic shadows"
+- Include style preferences: "documentary style," "commercial look," "artistic"
+
+Video Tips:
+
+- Start with simple prompts and iterate
+- Use high-quality source images for image-to-video
+- Keep clips short (3-4 seconds) for best quality
+- ...

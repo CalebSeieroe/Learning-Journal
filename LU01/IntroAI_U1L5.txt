@@ -35,4 +35,11 @@ Refinement Strategies
 
 Sep 9
 
--
+- prompt engineering
+- Context
+- Reference
+- task
+
+Sep 10
+
+Worked on journal entries and how AI uses the resources it is given, and how we can give those resources to it.

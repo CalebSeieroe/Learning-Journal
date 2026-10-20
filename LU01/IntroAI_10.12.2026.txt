@@ -1,0 +1,1 @@
+We went over using AI to write SQlite code

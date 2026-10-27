@@ -1,0 +1,3 @@
+Genetic Algorithm
+
+the ai learns, the best from a generation is selected and allowed to reproduce and those continue into the next generation. repeat until desired goal is met.
